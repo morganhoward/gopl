@@ -1,0 +1,1 @@
+Just working through The Go Programming Language book by Donovan and Kernighan.
