@@ -35,4 +35,3 @@ for {
 for _, arg := range slice {
     ...
 }
-
