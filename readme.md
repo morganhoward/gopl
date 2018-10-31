@@ -35,3 +35,17 @@ for {
 for _, arg := range slice {
     ...
 }
+
+### Structs
+type person struct {
+    name string
+    age int
+}
+
+joe := person{
+    name: "John",
+    age: 32,
+}
+
+joe.name
+
